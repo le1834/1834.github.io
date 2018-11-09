@@ -2,6 +2,7 @@ body
 {
     height: 1300px;
     background: linear-gradient(to top right, #67ff92 0%, #6ed3ff 100%, #c080ff)
+    /*I got this from https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_diagonal*/
 }
 
 .topnav {
